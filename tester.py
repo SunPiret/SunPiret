@@ -7,3 +7,5 @@ host_2 = 120
 
 
 grom(host_2, host_1)
+
+print('ho ho ho')
